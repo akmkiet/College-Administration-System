@@ -343,7 +343,7 @@ public class Admin_Register extends javax.swing.JFrame {
         Session session = Session.getDefaultInstance(props,
                 new javax.mail.Authenticator() {
                 protected PasswordAuthentication getPasswordAuthentication(){
-                return new PasswordAuthentication("ajeetkumar99190@gmail.com","9598725268");
+                return new PasswordAuthentication("ajeetkumar99190@gmail.com","password");
                 }        
                 }  
                 );
